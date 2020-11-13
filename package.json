@@ -1,0 +1,15 @@
+{
+  "name": "aws-lambda-update-env-hack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": ["aws-hack", "aws-lambda"],
+  "author": "Chau Giang <chauamz@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
